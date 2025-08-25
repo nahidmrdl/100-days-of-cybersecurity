@@ -38,10 +38,10 @@
 
 | Day | Topic | Notes | Tweet |
 |-----|-------|-------|-------|
-| 01  | Introduction to Cybersecurity | [Day 1](days/Day01.md) | [Tweet](https://twitter.com/nahidmrdl/status/xxxxxx) |
-| 02  | Networking basics | [Day 2](days/Day02.md) | [Tweet](https://twitter.com/nahidmrdl/status/xxxxxx) |
+| 01  | Introduction to Cybersecurity | [Day 1](days/Day01.md) | [Tweet](https://x.com/checkthenews0/status/1960006315981635805) |
+| 02  | Networking basics | [Day 2](days/Day02.md) | [Tweet](https://x.com/checkthenews0/status/1960006315981635805) |
 | ... | ...   | ...   | ...   |
-| 100 | Final recap & reflections | [Day 100](days/Day100.md) | [Tweet](https://twitter.com/nahidmrdl/status/xxxxxx) |
+| 100 | Final recap & reflections | [Day 100](days/Day100.md) | [Tweet](https://x.com/checkthenews0/status/1960006315981635805) |
 
 
 > Tip: this table is updated daily
