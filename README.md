@@ -38,7 +38,7 @@
 
 | Day | Topic | Notes | Tweet |
 |-----|-------|-------|-------|
-| 01  | Kickoff + CIA triad | [Day 1](days/Day01.md) | [Tweet](https://twitter.com/nahidmrdl/status/xxxxxx) |
+| 01  | Introduction to Cybersecurity | [Day 1](days/Day01.md) | [Tweet](https://twitter.com/nahidmrdl/status/xxxxxx) |
 | 02  | Networking basics | [Day 2](days/Day02.md) | [Tweet](https://twitter.com/nahidmrdl/status/xxxxxx) |
 | ... | ...   | ...   | ...   |
 | 100 | Final recap & reflections | [Day 100](days/Day100.md) | [Tweet](https://twitter.com/nahidmrdl/status/xxxxxx) |
@@ -64,6 +64,7 @@
 ---
 
 ## 🔗 Resources
+- [IBM SkillsBuild Cybersecurity Fundamentals](https://skills.yourlearning.ibm.com/activity/PLAN-4FB8400F05FC?ngo-id=0302&_gl=1*1ncy9yg*_ga*MTc2MjQzOTQ5MS4xNzU2MTE0MjE2*_ga_FYECCCS21D*czE3NTYxMzY0OTckbzMkZzAkdDE3NTYxMzY1MDUkajUyJGwwJGgw)
 - [TryHackMe](https://tryhackme.com): Pre-Security / Jr Pentester paths  
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)  
 - [OWASP Top 10 Overview](https://owasp.org/Top10/)  
