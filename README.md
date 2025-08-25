@@ -11,7 +11,7 @@
   <img alt="days" src="https://img.shields.io/badge/days-100-blue">
 </p>
 
-> Documenting my daily progress learning cybersecurity (2 hrs/day). 🚀
+> Documenting my daily progress learning cybersecurity. 🚀
 
 ---
 
