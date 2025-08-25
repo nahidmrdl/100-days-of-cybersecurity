@@ -31,17 +31,17 @@
 - Learn defensive concepts: SIEM, log analysis, threat detection, incident response.  
 - Explore cloud security fundamentals (AWS/Azure/GCP basics).  
 - Practice secure coding & small Python automation scripts.  
-- Document daily progress (notes, reflections, and tweet threads).  
+- Document daily progress (notes and X posts).  
 ---
 
 ## 🗓️ Daily Log
 
-| Day | Topic | Notes | Tweet |
+| Day | Topic | Notes | X Post |
 |-----|-------|-------|-------|
-| 01  | Introduction to Cybersecurity | [Day 1](days/Day01.md) | [Tweet](https://x.com/checkthenews0/status/1960006315981635805) |
-| 02  | Networking basics | [Day 2](days/Day02.md) | [Tweet](https://x.com/checkthenews0/status/1960006315981635805) |
+| 01  | Introduction to Cybersecurity | [Day 1](days/Day01.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
+| 02  | Coming Soon | [Day 2](days/Day02.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
 | ... | ...   | ...   | ...   |
-| 100 | Final recap & reflections | [Day 100](days/Day100.md) | [Tweet](https://x.com/checkthenews0/status/1960006315981635805) |
+| 100 | Final recap & reflections | [Day 100](days/Day100.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
 
 
 > Tip: this table is updated daily
