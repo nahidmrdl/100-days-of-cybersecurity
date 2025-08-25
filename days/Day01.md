@@ -2,12 +2,6 @@
 
 The **Internet of Things (IoT)** refers to the interconnection of digital devices through a vast network, enabling seamless communication and data exchange.
 
-## Learning Objectives
-- Define cybersecurity and its core principles
-- Explore the three components of cybersecurity: digital, human, and physical security
-- Understand the objectives of the CIA triad and their relevance in various cybersecurity scenarios
-- Identify examples of security controls for each CIA triad objective
-
 ## What is Cybersecurity?
 Cybersecurity is the practice of protecting and recovering data, networks, devices, and programs from threats. These threats can originate from digital, human, or physical sources, each requiring specific safeguards.
 
