@@ -39,7 +39,7 @@
 | Day | Topic | Notes | X Post |
 |-----|-------|-------|-------|
 | 01  | Introduction to Cybersecurity | [Day 1](days/Day01.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
-| 02  | Coming Soon | [Day 2](days/Day02.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
+| 02  | Cybersecurity on the Offense (Part 1) | [Day 2](days/Day02.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
 | ... | ...   | ...   | ...   |
 | 100 | Final recap & reflections | [Day 100](days/Day100.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
 
@@ -69,7 +69,9 @@
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)  
 - [OWASP Top 10 Overview](https://owasp.org/Top10/)  
 - CompTIA Security+ study resources (for fundamentals)  
-
+- [Kaspersky Cyberthreat Map](https://cybermap.kaspersky.com) – real-time global threat visualization  
+- [Fortinet Threat Map](https://threatmap.fortiguard.com) – live attack details and targets  
+- [Bitdefender Threat Map](https://threatmap.bitdefender.com) – spam, threats, and attack tracking in real time  
 ---
 
 <p align="center">Made with ☕ + 🐧 (and lots of curiosity)</p>

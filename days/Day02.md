@@ -61,7 +61,6 @@ Attackers leverage AI in multiple ways:
 [cybermap.kaspersky.com](https://cybermap.kaspersky.com)  
 - Navigate world map → see attack data by country.  
 - Acronyms (e.g., **BAD** = Botnet Activity Detection).  
-- *(Image will be added to Day02.md)*  
 
 ### 🔴 Fortinet Threat Map  
 [threatmap.fortiguard.com](https://threatmap.fortiguard.com)  
