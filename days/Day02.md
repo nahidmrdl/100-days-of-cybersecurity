@@ -86,7 +86,7 @@ Attackers leverage AI in multiple ways:
 6. **Command & Control (C2)** → Attacker communicates with compromised system.  
 7. **Actions on Objectives** → Steal/modify/destroy data.  
 
-📌 *Image: `assets/images/killchain.png`*  
+![Kill Chain](assets/images/killchain.png)
 
 ---
 
@@ -95,7 +95,8 @@ Attackers leverage AI in multiple ways:
 - **ATT&CK = Adversarial Tactics, Techniques & Common Knowledge** (pronounced “attack”).  
 - Open source & freely available.  
 
-📌 *Image: `assets/images/mitrematrix.jpg`*  
+![MITRE ATT&CK Matrix](assets/images/mitrematrix.jpg)
+
 
 ---
 
