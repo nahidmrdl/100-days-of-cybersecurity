@@ -40,6 +40,7 @@
 |-----|-------|-------|-------|
 | 01  | Introduction to Cybersecurity | [Day 1](days/Day01.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
 | 02  | Cybersecurity on the Offense (Part 1) | [Day 2](days/Day02.md) | [X Post](https://x.com/checkthenews0/status/1960327742882296154) |
+| 03  | OSINT & Technical Scanning | [Day 3](days/Day03.md) | [X Post](https://x.com/checkthenews0/status/1960739406504952144) |
 | ... | ...   | ...   | ...   |
 | 100 | Final recap & reflections | [Day 100](days/Day100.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
 
@@ -72,6 +73,9 @@
 - [Kaspersky Cyberthreat Map](https://cybermap.kaspersky.com) – real-time global threat visualization  
 - [Fortinet Threat Map](https://threatmap.fortiguard.com) – live attack details and targets  
 - [Bitdefender Threat Map](https://threatmap.bitdefender.com) – spam, threats, and attack tracking in real time  
+- [Shodan](https://www.shodan.io) – search engine for internet-connected devices  
+- [Nmap](https://nmap.org) – open-source network scanner  
+- [Zenmap](https://nmap.org/zenmap/) – official GUI for Nmap (beginner-friendly) 
 ---
 
 <p align="center">Made with ☕ + 🐧 (and lots of curiosity)</p>
