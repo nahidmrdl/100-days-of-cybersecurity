@@ -40,7 +40,7 @@
 |-----|-------|-------|-------|
 | 01  | Introduction to Cybersecurity | [Day 1](days/Day01.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
 | 02  | Cybersecurity on the Offense (Part 1) | [Day 2](days/Day02.md) | [X Post](https://x.com/checkthenews0/status/1960327742882296154) |
-| 03  | OSINT & Technical Scanning | [Day 3](days/Day03.md) | [X Post](https://x.com/checkthenews0/status/1960739406504952144) |
+| 03  | Cybersecurity on the Offense (Part 2) | [Day 3](days/Day03.md) | [X Post](https://x.com/checkthenews0/status/1960739406504952144) |
 | ... | ...   | ...   | ...   |
 | 100 | Final recap & reflections | [Day 100](days/Day100.md) | [X Post](https://x.com/checkthenews0/status/1960006315981635805) |
 
